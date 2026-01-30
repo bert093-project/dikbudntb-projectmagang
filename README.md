@@ -17,7 +17,7 @@ Bun (1.3.5 atau lebih baru)
 
 ```
 git clone https://github.com/bert093-project/DikbudNTB-ProjectMagang.git
-cd ProjectUAS-Data-Mining
+cd DikbudNTB-ProjectMagang
 ```
 
 2. Install package/dependency:
